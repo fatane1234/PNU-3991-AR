@@ -20,7 +20,7 @@
     <th ><a href=https://github.com/fatane1234
     ">نظریه زبان ها و ماشین ها</a></th>
       <th ><a href=https://github.com/fatane1234
-    ">نظریه زبان ها و ماشین ها</a></th>
+    ">طراحی الگوریتم ها </a></th>
     <th ></th>
       
     <th></th>
