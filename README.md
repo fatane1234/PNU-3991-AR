@@ -19,11 +19,8 @@
     <th ></th>
     <th ><a href=https://github.com/fatane1234
     ">نظریه زبان ها و ماشین ها</a></th>
-   
-    
-    <th ></th>
-      
-    <th></th>
+  <th ></th>
+  <th></th>
     <th></th>
     <th>شنبه</th>
   </tr>
