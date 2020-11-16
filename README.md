@@ -21,6 +21,9 @@
     ">نظریه زبان ها و ماشین ها</a></th>
       <th ><a href=https://github.com/fatane1234
     ">طراحی الگوریتم ها </a></th>
+     <th ><a href=https://github.com/fatane1234
+    ">ریاضیات مهندسی  </a></th>
+    
     <th ></th>
       
     <th></th>
