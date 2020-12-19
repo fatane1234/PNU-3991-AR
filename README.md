@@ -50,7 +50,7 @@
     <th>سه شنبه</th>
   </tr>
    <tr>
-    [22:05, 14/11/2020] khavari:  <th ></th>
+    <th ></th>
     <th ></th>
     <th></th>
     <th></th>
