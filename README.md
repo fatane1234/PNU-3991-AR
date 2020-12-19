@@ -6,7 +6,7 @@
 - [GitHab](https://github.com/fatane1234)
 - [certificat](https://github.com/fatane1234/certificat/blob/khavari/46313.jpg)
 - [patchwork](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/patchwork.jpeg)
-.........
+-----------------
 <table style="width:100%">
   <tr>
     <th >16-18</th>
