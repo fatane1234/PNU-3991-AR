@@ -6,7 +6,7 @@
 - [GitHab](https://github.com/fatane1234)
 - [certificat](https://github.com/fatane1234/certificat/blob/khavari/46313.jpg)
 - [patchwork](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/patchwork.jpeg)
-- .........
+.........
 <table style="width:100%">
   <tr>
     <th >16-18</th>
@@ -66,4 +66,3 @@
      <th>پنج شنبه</th>
   </tr>
 </table>
-[22:05, 14/11/2020]🍁𝒇𝒂𝒕𝒂𝒏𝒆🍁 : 
