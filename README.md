@@ -9,7 +9,7 @@
 
 ------------------
  ## پروژه 
-- [سایت خرید بلیط هواپیما]( https://github.com/fatane1234/PNU-3991-AR/blob/khavari/prozhe%20(1).pdf)
+- [سایت خرید بلیط هواپیما](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/prozhe%20(1).pdf)
  ------------------
  ارزیابی ها 
  
