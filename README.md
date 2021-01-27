@@ -15,13 +15,13 @@
  
 ##  بخش عمومی 
  
-- [اریابی رزومه وانگیزه نامه](https://github.com/fatane1234/PNU_3991_AR/blob/main/_General/SA_CV_CheckList_AR_3991.pdf)
+- [اریابی رزومه وانگیزه نامه](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_CV_CheckList_AR_3991.pdf)
 
-- [خلاصه ارزیابی بخش عمومی](https://github.com/fatane1234/PNU_3991_AR/blob/main/_General/SA_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
 
-- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/fatane1234/PNU_3991_AR/blob/main/Languages-and-Machines/SA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/Languages-and-Machines/FKH-Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
  ------------------
  ## Winter Semester Courses 1399/2020
 
