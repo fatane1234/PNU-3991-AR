@@ -15,19 +15,19 @@
  
 ##  بخش عمومی 
  
-- [اریابی رزومه وانگیزه نامه](https://github.com/talaazizi/PNU_3991_AR/blob/main/_General/SA_CV_CheckList_AR_3991.pdf)
+- [اریابی رزومه وانگیزه نامه](https://github.com/fatane1234/PNU_3991_AR/blob/main/_General/SA_CV_CheckList_AR_3991.pdf)
 
-- [خلاصه ارزیابی بخش عمومی](https://github.com/talaazizi/PNU_3991_AR/blob/main/_General/SA_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/fatane1234/PNU_3991_AR/blob/main/_General/SA_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
 
-- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/talaazizi/PNU_3991_AR/blob/main/Languages-and-Machines/SA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/fatane1234/PNU_3991_AR/blob/main/Languages-and-Machines/SA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
  ------------------
  ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
 
-[1115157_01 نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
+[1115157_02 نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 
  ------------------
 ## اعضای گروه
