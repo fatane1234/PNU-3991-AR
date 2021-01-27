@@ -10,6 +10,9 @@
 ------------------
 - پروژه 
 - [سایت خرید بلیط هواپیما]( https://github.com/fatane1234/PNU-3991-AR/blob/khavari/prozhe%20(1).pdf)
+ 
+- بخش عمومی 
+- [ ارزیابی رزومه و انگیزه نامه] ( https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_CV_CheckList_AR_3991.pdf)
 
 ## اعضای گروه
 1. G-L02
