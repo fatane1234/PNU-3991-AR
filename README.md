@@ -8,11 +8,11 @@
 - [patchwork](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/patchwork.jpeg)
 
 ------------------
-- پروژه 
+ پروژه 
 - [سایت خرید بلیط هواپیما]( https://github.com/fatane1234/PNU-3991-AR/blob/khavari/prozhe%20(1).pdf)
  
-- ارزیابی ها 
-- بخش عمومی   
+ ارزیابی ها 
+ بخش عمومی   
  
 -[اریابی رزومه وانگیزه نامه](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_CV_CheckList_AR_3991.pdf)
 
