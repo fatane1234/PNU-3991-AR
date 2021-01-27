@@ -21,7 +21,7 @@
 
 ##  بخش دروس کارشناسی
 
-- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/Languages-and-Machines/FKH-Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH-Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
  ------------------
  ## Winter Semester Courses 1399/2020
 
