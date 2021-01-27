@@ -15,13 +15,13 @@
  
  بخش عمومی 
  
--[اریابی رزومه وانگیزه نامه](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_CV_CheckList_AR_3991.pdf)
+- [اریابی رزومه وانگیزه نامه](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_CV_CheckList_AR_3991.pdf)
 
--[خلاصه ارزیابی بخش عمومی](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_GeneralSection_CheckList_AR_3991.pdf)
+ -[خلاصه ارزیابی بخش عمومی](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_GeneralSection_CheckList_AR_3991.pdf)
 
 بخش دروس کارشناسی 
 
--[خلاصه ارزیابی درس نظریه زبان ها وماشین ها ](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/Languages-and-Machines/FKH-Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس نظریه زبان ها وماشین ها ](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/Languages-and-Machines/FKH-Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 ## اعضای گروه
 1. G-L02
