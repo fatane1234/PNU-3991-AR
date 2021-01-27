@@ -16,6 +16,7 @@
  بخش عمومی 
  
 -[اریابی رزومه وانگیزه نامه](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_CV_CheckList_AR_3991.pdf)
+[خلاصه ارزیابس بخش عمومی](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/General/FKH_GeneralSection_CheckList_AR_3991.pdf)
 
 ## اعضای گروه
 1. G-L02
