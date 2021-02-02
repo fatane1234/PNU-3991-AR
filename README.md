@@ -8,7 +8,7 @@
 - [patchwork](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/patchwork.jpeg)
 
 ------------------
--[latex(377-380)](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/Theory-of-Languages-and-Machines.zip)
+-[latex(377-380)](https://github.com/fatane1234/PNU-3991-AR/tree/khavari/Theory-of-Languages-and-Machines)
 
 ------------------
  ## پروژه 
