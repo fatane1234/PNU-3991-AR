@@ -8,6 +8,9 @@
 - [patchwork](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/patchwork.jpeg)
 
 ------------------
+-[latex(377-380)](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/Theory-of-Languages-and-Machines.zip)
+
+------------------
  ## پروژه 
 - [سایت خرید بلیط هواپیما](https://github.com/fatane1234/PNU-3991-AR/blob/khavari/prozhe%20(1).pdf)
  ------------------
